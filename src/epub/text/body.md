@@ -2422,9 +2422,7 @@ like to conduct oneself absolutely according to one’s own laws, she
 turned into the dark little vestibule on Jayne Street. As usual the
 Jewish girl who lived above her was standing blurred in the thick
 blackness of the hall, and as usual Angela did not realize this until,
-touching the button and turning on the li
-
-ght, she caught sight of Miss Salting straining her face upwards to
+touching the button and turning on the light, she caught sight of Miss Salting straining her face upwards to
 receive her lover’s kiss.
 
 Chapter III
