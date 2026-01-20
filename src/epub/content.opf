@@ -51,7 +51,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/jessie-fauset-plum-bun-1928-full-text</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000389515</dc:source>
-		<meta property="se:word-count">95939</meta>
+		<meta property="se:word-count">93712</meta>
 		<meta property="se:reading-ease.flesch">71.65</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Plum_Bun</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jessie-redmon-fauset_plum-bun</meta>
