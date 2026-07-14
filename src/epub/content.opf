@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Plum Bun: A Novel Without a Moral</dc:title>
 		<meta property="file-as" refines="#fulltitle">Plum Bun</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">African American women--Fiction</dc:subject>
 		<dc:subject id="subject-2">Passing (Identity)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
